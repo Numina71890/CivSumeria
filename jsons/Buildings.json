@@ -1,25 +1,16 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Ziggurat",
+		"replaces": "Temple",
+		"uniqueTo": "Sumeria", 
+		"maintenance": 3,
+		"faith": 5,
+		"science": 2,
+		"specialistSlots": {"Scientist": 1},
+		"cost":120,
+		"hurryCostModifier": 25,
+		"uniques": ["[+5 Faith] from [River] tiles [in this city]","1 Scientist slot"],
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Construction"
 	}
 ]
