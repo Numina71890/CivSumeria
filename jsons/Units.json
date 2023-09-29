@@ -11,6 +11,21 @@
 		"requiredTech": "Mining",
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
+		"promotions": ["Formation II","Drill II","Shock" II],
 		"uniques": ["[+75]% Strength <vs [Sword] units>","[+100]% Strength <vs [Mounted] units>","[+50]% Strength <when defending>"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Sumerian Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Sumeria",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 16,
+		"cost": 10,
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"promotions": ["Charge","Morale","Blitz"],
+		"attackSound": "nonmetalhit"
 	}
 ]
