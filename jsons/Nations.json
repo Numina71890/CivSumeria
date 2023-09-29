@@ -31,7 +31,7 @@
 
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Cradle of Civilizations",
-		"uniqueText": "+4 [Science], +8 [Faith] in Capital",
+		"uniqueText": "+2 [Culture], +4 [Science], +8 [Faith] in Capital",
 		"uniques": ["[+2 Culture, +4 Science, +8 Faith] [in capital]","[+1 Culture, +2 Science, +4 Faith] [in all cities]"],
 		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
 			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
