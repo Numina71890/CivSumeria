@@ -11,6 +11,6 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+5 Faith] from [River] tiles [in this city]","1 Scientist slot"],
 		"requiredBuilding": "Shrine",
-		"requiredTech": "Construction"
+		"requiredTech": "Masonry"
 	}
 ]
