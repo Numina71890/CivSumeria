@@ -31,8 +31,8 @@
 
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Cradle of Civilizations",
-		"uniqueText": "All land units move twice as fast on tiles next to rivers. +4 [Science] in Capital",
-		"uniques": ["[+4 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
+		"uniqueText": "+4 [Science], +8 [Faith] in Capital",
+		"uniques": ["[+4 Science, +8 Faith] [in capital]","[+2 Science, +4 Faith] [in all cities]"],
 		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
 			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
 			"Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
