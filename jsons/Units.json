@@ -11,6 +11,6 @@
 		"requiredTech": "Mining",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Sword] units>","[+100]% Strength <vs [Mounted] units>","[+25]% Strength <when defending>"],
+		"uniques": ["[+75]% Strength <vs [Sword] units>","[+200]% Strength <vs [Mounted] units>","[+50]% Strength <when defending>"],
 	}
 ]
