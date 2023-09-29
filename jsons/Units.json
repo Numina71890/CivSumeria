@@ -5,7 +5,7 @@
 		"uniqueTo": "Sumeria",
 		"replaces": "Spearman",
 		"movement": 2,
-		"strength": 16,
+		"strength": 18,
 		"cost": 30,
 		"hurryCostModifier": 20,
 		"requiredTech": "Mining",
