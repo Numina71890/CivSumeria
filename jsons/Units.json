@@ -5,12 +5,12 @@
 		"uniqueTo": "Sumeria",
 		"replaces": "Spearman",
 		"movement": 2,
-		"strength": 12,
+		"strength": 16,
 		"cost": 30,
 		"hurryCostModifier": 20,
 		"requiredTech": "Mining",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
 		"uniques": ["[+75]% Strength <vs [Sword] units>","[+100]% Strength <vs [Mounted] units>","[+50]% Strength <when defending>"],
 	}
 ]
