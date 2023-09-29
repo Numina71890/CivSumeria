@@ -2,12 +2,12 @@
     {
         "name": "God of Storms",
         "type": "Pantheon",
-        "uniques": ["[+20]% Great Person generation [in all cities]","[+1 Gold, +2 Production,] whenever a Great Person is expended"]
+        "uniques": ["[+20]% Great Person generation [in all cities]"]
     },
     {
         "name": "God of Waters",
         "type": "Pantheon",
-        "uniques": ["[+20]% [Science] [in all cities]","Science gained from research agreements [+20]%"]
+        "uniques": ["[+20]% [Science] [in all cities]"]
     },
     {
         "name": "Queen of Heaven",
